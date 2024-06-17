@@ -1,6 +1,6 @@
 import multion
 from multion.client import MultiOn
-multion = MultiOn(api_key="6b4973eed4df488bb139006c5c06ac4e")
+multion = MultiOn(api_key="FILL IN")
 
 def research_person(name, max_sources=4, max_steps=12, max_num_repeats=1, update_callback=None):
 
