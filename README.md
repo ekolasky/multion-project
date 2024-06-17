@@ -1,4 +1,4 @@
-# Ethan Kolasky's Interview Project
+# Ethan Kolasky's Interview Project for MultiOn
 
 This project is an backend API designed to take a screenshot of an email, extract the names or people and companies in the email, and then use the MultiOn API to research those people and companies. Video demos are included in the video section of the readme. You can also try it yourself by folling the insturctions in the "How to Run" section of the readme.
 
