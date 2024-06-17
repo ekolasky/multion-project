@@ -1,0 +1,11 @@
+README.md
+setup.py
+interview_project.egg-info/PKG-INFO
+interview_project.egg-info/SOURCES.txt
+interview_project.egg-info/dependency_links.txt
+interview_project.egg-info/requires.txt
+interview_project.egg-info/top_level.txt
+tests/test_api.py
+utils/__init__.py
+utils/research_entities.py
+utils/vlm_model.py

@@ -1,0 +1,321 @@
+[
+    {
+        "image_file_name": "image1.png",
+        "entities": [
+            {
+                "name": "Ethan Kolasky",
+                "category": "person"
+            },
+            {
+                "name": "Jim Gersack",
+                "category": "person"
+            },
+            {
+                "name": "Div Garg",
+                "category": "person"
+            },
+            {
+                "name": "Omar Shaya",
+                "category": "person"
+            },
+            {
+                "name": "MultiOn",
+                "category": "company"
+            },
+            {
+                "name": "Catalytic Wealth Management",
+                "category": "company"
+            }
+        ]
+    },
+    {
+        "image_file_name": "image2.png",
+        "entities": [
+            {
+                "name": "William Kolasky",
+                "category": "person"
+            },
+            {
+                "name": "Hughes Hubbard & Reed",
+                "category": "company"
+            }
+        ]
+    },
+    {
+        "image_file_name": "image3.png",
+        "entities": [
+            {
+                "name": "Izzy Barrass",
+                "category": "person"
+            }
+        ]
+    },
+    {
+        "image_file_name": "image4.png",
+        "entities": [
+            {
+                "name": "Bret King",
+                "category": "person"
+            },
+            {
+                "name": "Wyoming Balloon Company",
+                "category": "company"
+            }
+        ]
+    },
+    {
+        "image_file_name": "image5.png",
+        "entities": [
+            {
+                "name": "Hocc Robotics",
+                "category": "company"
+            },
+            {
+                "name": "Harry O'Conner",
+                "category": "person"
+            }            
+        ]
+    },
+    {
+        "image_file_name": "image6.png",
+        "entities": [
+            {
+                "name": "Natasha Monroy",
+                "category": "person"
+            },
+            {
+                "name": "Ethan Kolasky",
+                "category": "person"
+            }                
+        ]
+    },
+    {
+        "image_file_name": "image7.png",
+        "entities": [
+            {
+                "name": "Evan Schneider",
+                "category": "person"
+            },
+            {
+                "name": "Ed Schneider",
+                "category": "person"
+            }         
+        ]
+    },
+    {
+        "image_file_name": "image8.png",
+        "entities": [
+            {
+                "name": "Ed Schneider",
+                "category": "person"
+            },
+            {
+                "name": "Jeremy Schneider",
+                "category": "person"
+            },
+            {
+                "name": "Webb Investment Network",
+                "category": "company"
+            }   
+        ]
+    },
+    {
+        "image_file_name": "image9.png",
+        "entities": [
+            {
+                "name": "LAUNCH",
+                "category": "company"
+            }
+        ]
+    },
+    {
+        "image_file_name": "image10.png",
+        "entities": [
+            {
+                "name": "Philip Giordano",
+                "category": "person"
+            },
+            {
+                "name": "Ethan Kolasky",
+                "category": "person"
+            },
+            {
+                "name": "Bill Kolasky",
+                "category": "person"
+            },
+            {
+                "name": "Steven Lurie",
+                "category": "person"
+            },
+            {
+                "name": "Microsoft",
+                "category": "company"
+            },
+            {
+                "name": "Zynga",
+                "category": "company"
+            },
+            {
+                "name": "Team Builders Fund",
+                "category": "company"
+            }
+        ]
+    },
+    {
+        "image_file_name": "image11.png",
+        "entities": [
+            {
+                "name": "Eliot Wolfert",
+                "category": "person"
+            }
+        ]
+    },
+    {
+        "image_file_name": "image12.png",
+        "entities": [
+            {
+                "name": "Ethan Kolasky",
+                "category": "person"
+            },
+            {
+                "name": "Div Garg",
+                "category": "person"
+            }
+        ]
+    },
+    {
+        "image_file_name": "image13.png",
+        "entities": [
+            {
+                "name": "A Heather Coyne",
+                "category": "person"
+            },
+            {
+                "name": "Ethan Kolasky",
+                "category": "person"
+            }
+        ]
+    },
+    {
+        "image_file_name": "image14.png",
+        "entities": [
+            {
+                "name": "Molly Templin",
+                "category": "person"
+            }
+        ]
+    },
+    {
+        "image_file_name": "image15.png",
+        "entities": [
+            {
+                "name": "Konstantina Psoma",
+                "category": "person"
+            },
+            {
+                "name": "Kaedim",
+                "category": "company"
+            }
+        ]
+    },
+    {
+        "image_file_name": "image16.png",
+        "entities": [
+            {
+                "name": "Silicon Couloir",
+                "category": "person"
+            }
+        ]
+    },
+    {
+        "image_file_name": "image17.png",
+        "entities": [
+            {
+                "name": "Presidio Residences",
+                "category": "company"
+            }
+        ]
+    },
+    {
+        "image_file_name": "image18.png",
+        "entities": [
+            {
+                "name": "Founders University",
+                "category": "company"
+            },
+            {
+                "name": "Presh Dineshkumar",
+                "category": "person"
+            },
+            {
+                "name": "Stripe",
+                "category": "company"
+            }
+        ]
+    },
+    {
+        "image_file_name": "image19.png",
+        "entities": [
+            {
+                "name": "Brittney Ziebell",
+                "category": "person"
+            },
+            {
+                "name": "Gaile Gordon",
+                "category": "person"
+            }
+        ]
+    },
+    {
+        "image_file_name": "image20.png",
+        "entities": [
+            {
+                "name": "General Catalyst",
+                "category": "company"
+            },
+            {
+                "name": "MultiOn",
+                "category": "company"
+            },
+            {
+                "name": "Agnetic",
+                "category": "company"
+            },
+            {
+                "name": "IBM",
+                "category": "company"
+            },
+            {
+                "name": "Microsoft",
+                "category": "company"
+            }
+        ]
+    },
+    {
+        "image_file_name": "image21.png",
+        "entities": [
+            {
+                "name": "Nat Eliason",
+                "category": "person"
+            }
+        ]
+    },
+    {
+        "image_file_name": "image22.png",
+        "entities": [
+            {
+                "name": "Techstars Accelerator",
+                "category": "company"
+            }
+        ]
+    },
+    {
+        "image_file_name": "image23.png",
+        "entities": [
+            {
+                "name": "Caroline Crawley",
+                "category": "person"
+            }
+        ]
+    }
+]
